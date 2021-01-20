@@ -1,0 +1,6 @@
+export const SEARCH_FOCUS = 'header/search_focus'
+export const SEARCH_BLUR = 'header/search_blur'
+export const SET_LIST = 'header/set_list'
+export const MOUSE_ENTER = 'header/mouse_enter'
+export const MOUSE_LEAVE = 'header/mouse_leave'
+export const SET_PAGE = 'header/set_page'

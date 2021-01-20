@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [
+      {
+        "id": 1,
+        "title": "社会热点",
+        "imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 2,
+        "title": "手手绘",
+        "imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      }
+    ],
+    "articleList": [
+      {
+        "id": 1,
+        "title": "坚持写作一年，自己得到了什么",
+        "desc": "第一次拿稿费，是今年的三月。 那个时候，距离我在简书上写文章，至少也有一年了。 现在有一年半的时间，大概也有二三十万字的废话。 哪怕是十月初注册...",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/17251666-4c1462a94312c6c7.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": 2,
+        "title": "30岁后，再看林徽因与张爱玲：一个“世故”，一个“凉薄”",
+        "desc": "说起民国时期的才女，不得不提林徽因和张爱玲，她们一个像“人间四月天”，一个怀揣“天才梦”，一个在建筑界居功至伟，一个在文学界无出其右。 两人相差...",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/5172867-6f40931386bedfe9?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": 3,
+        "title": "博林赚法：如何在网上赚钱",
+        "desc": "分享一个操作闲鱼店群项目,月产出3000+个人兼职操作20家放大化操作 本篇文章分享的内容有两个： 一 闲鱼实操技巧，兼职状态下如何干到单店月利...",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/12284954-52e79096a1c1a2b9.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": 4,
+        "title": "戴望舒——在最美的时光里错过",
+        "desc": "【青•故事优选】[https://www.jianshu.com/c/11c8f8761ed1]专题推荐文章 01 撑着油纸伞，独自彷徨在悠长，...",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/23488806-8ebae730d29122c4.JPG?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": 1,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-daily-e6f6601abc495573ad37f2532468186f.png"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+      },
+      {
+        "id": 3,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+      },
+      {
+        "id": 4,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+      }
+    ]
+  }
+}
